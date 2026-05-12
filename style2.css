@@ -113,4 +113,10 @@ justify-content: space-between;
     height: 500px;
     border-radius: 50px;
 
+
+}
+img:hover{
+    transform: scale(1.1);
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
 }
